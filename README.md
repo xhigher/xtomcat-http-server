@@ -1,9 +1,9 @@
 # xtomcat-http-server
-基于tomcat-embed web容器构建得微服务应用框架
+基于tomcat-embed web容器构建的微服务应用框架
 
 简介
 ---
-  基于tomcat-embed web容器构建得微服务应用框架，resful API风格，json数据格式交互，核心逻辑简洁易懂，定制灵活；mysql，redis，mongodb，elasticsearch等即开即用，资源管理完全托管。
+  基于tomcat-embed web容器构建的微服务应用框架，resful API风格，json数据格式交互，核心逻辑简洁易懂，定制灵活；mysql，redis，mongodb，elasticsearch等即开即用，资源管理完全托管。
   业务逻辑层只需专注于业务流程实现，数据层无缝支持多数据源；Servlet容器采用内嵌Tomcat，快速启动，方便本地测试和服务上线，部署简单，通过MAVEN工具能够打出各个环境（根据指定配置文件）安装包；
 
 
